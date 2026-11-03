@@ -1,0 +1,12 @@
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Safety net: no images or arrays ever go in this repo (see README)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.npy
+*.npz
